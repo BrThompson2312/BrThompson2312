@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently studying on Talleres Don Bosco
+- 🌱 I’m currently learning Web Programming and Web Design
+- 💬 Ask me about: I´m 18 years old and I like play videogames
 <!--
 **BrThompson2312/BrThompson2312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
